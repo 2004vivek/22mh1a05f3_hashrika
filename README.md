@@ -108,7 +108,7 @@ node solve.js input.json
 
 **Output:**
 ```
-7
+3
 ```
 
 ---
